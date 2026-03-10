@@ -1,7 +1,0 @@
-streamlit==1.28.0
-pandas==2.0.3
-fuzzywuzzy==0.18.0
-python-Levenshtein==0.21.0
-requests==2.31.0
-textblob==0.17.1
-symspellpy==6.7.7
