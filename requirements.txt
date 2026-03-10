@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+fuzzywuzzy
+python-Levenshtein
+requests
+textblob
+symspellpy
+setuptools
